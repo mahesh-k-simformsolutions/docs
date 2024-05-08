@@ -40,7 +40,7 @@ To set up a workload in Visual Studio before creating a VSIX Template, adhere to
 4. Click OK, then build the project.
 5. Go to the bin folder of the VSIX Project and install the .vsix file.
 
-# Create Microservices Project using Template
+# Create a Project using Template
 1. Create a new project  using the Visual Studio Create Project wizard.
 2. Find the template with the name you provided while creating the template.
 3. Select the template you have installed.
