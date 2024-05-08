@@ -7,11 +7,11 @@ They include boilerplate code, such as configuration files and initial code file
 Examples: Web Application Template: Includes project structure for a web application, including HTML, CSS, and JavaScript files.
 
 # Benefits VSIX Template
-Standardizes microservices project structure: VSIX templates ensure that all microservices in an application follow a consistent project structure, making it easier to understand and maintain the codebase.
+Standardizes Project Structure: VSIX templates help maintain a consistent project structure, making it easier to understand and manage codebases.
 
-Automates repetitive tasks: VSIX templates can automate the creation of boilerplate code, such as service interfaces, data models, and configuration files, saving developers time.
+Automates Repetitive Tasks: These templates automate the creation of boilerplate code, such as interfaces, models, and configuration files, saving developers time and effort.
 
-Ensures consistency across microservices: By providing a standardized template, VSIX ensures that all microservices in an application adhere to the same coding standards and best practices.
+Ensures Consistency: By providing a standardized template, VSIX ensures that projects adhere to coding standards and best practices, promoting consistency across development efforts.
 
 # Installation of Workload
 To set up a workload in Visual Studio before creating a VSIX Template, adhere to the steps outlined below:
@@ -24,7 +24,7 @@ To set up a workload in Visual Studio before creating a VSIX Template, adhere to
 
 # Create Prototype and Export Template
 1. Create a sample prototype project.
-2. Add necessary components such as helper methods, extension methods, and resource files that should be available in every microservice.
+2. Add necessary components such as helper methods, extension methods.
 3. Once the basic prototype is ready, click on the "Project" menu and choose "Export Template."
 4. In the Export Template wizard, select "Project Template." Choose the project you want to export as a template and click "Next."
 5. Provide the necessary details for the template, such as Name, Description, and icon image, then click "Finish."
